@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a064f09-09e8-4984-98cb-a75e5735e26c" name="Default Changelist" comment="" />
+    <list default="true" id="1a064f09-09e8-4984-98cb-a75e5735e26c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational Pattern/Abstract Factory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational Pattern/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational Pattern/Factory Method/FactoryMedthod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qJjJNVbBaXx8dDwJom0DY2SALn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project Pratice\Learn Design Patterns\src\Creational Pattern\Abstract Factory" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -25,6 +53,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="646" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616906113231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="646" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616906113231" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1616804515743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
